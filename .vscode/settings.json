@@ -1,0 +1,10 @@
+{ 
+    "workbench.colorTheme": "Omni",
+    "workbench.iconTheme": "symbols",
+    "editor.fontSize" : 18,
+    "workbench.startupEditor": "none",
+    "explorer.confirmDelete":false,
+    "terminal.integrated.fontSize": 14,
+    "explorer.compactFolders.": false,
+    "editor.indentSize": 2
+}
